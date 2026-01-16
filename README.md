@@ -21,7 +21,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech (CSE), Siksha O Anusandhan — **CGPA: 7.28**
 - 🏭 Working on **MES + ERP integrations** for real production use-cases
-- ⚙️ Strong in **Spring Boot REST APIs, SQL schema design, deployments (IIS + SSL)**
+- ⚙️ Strong in **Spring Boot REST APIs, SQL schema design, deployments (IIS)**
 - 🔐 Built **JWT Auth + Role-based dashboards** (Admin/Supervisor/Operator)
 
 ---
@@ -31,7 +31,7 @@
 **Backend:** Spring Boot, Spring MVC, REST APIs  
 **Frontend:** React.js, HTML, CSS, Bootstrap  
 **Databases:** MS SQL Server, PostgreSQL, MySQL  
-**ERP/MES:** Microsoft Dynamics ERP, Apache OFBiz  
+**ERP:** Microsoft Dynamics ERP, Apache OFBiz  
 **Tools:** Git/GitHub, Postman, Swagger, VS Code, Eclipse
 
 ---
@@ -59,20 +59,12 @@
 - Real-time tracking of work orders, machines, and production status
 - ERP raw-material request/issue sync with shop-floor records
 - Production recording, QC pass/fail workflows, routing to next work center
-👉 Repo: `https://github.com/amanworld8040/<repo-name>`
 
 ### 🎓 Online Training Platform
 **Java • Spring Boot • Spring MVC • PostgreSQL**
 - Admin module for users/programs/courses (**reduced manual work ~40%**)
 - Learner module for enrollment + progress tracking
 - Improved query performance using optimized APIs (**~25%**)
-👉 Repo: `https://github.com/amanworld8040/<repo-name>`
-
-### ✅ (Optional) Add One More Highlight Project
-Pick one:
-- **Spring Hotel Room Booking (PostgreSQL)**  
-- **Travel Booking Website (HTML/CSS/JS)**  
-👉 Repo: `https://github.com/amanworld8040/<repo-name>`
 
 ---
 
