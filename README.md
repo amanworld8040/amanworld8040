@@ -76,14 +76,6 @@ Pick one:
 
 ---
 
-## 📊 GitHub Stats
-> Your previous stats were broken because the main Vercel deployment was paused. This mirror works.
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amanworld8040&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amanworld8040&layout=compact)
-
----
-
 ## 🤝 Connect with me
 - 🌐 Portfolio: https://amanrajak.in
 - 📧 Email: amanra382@gmail.com
