@@ -87,5 +87,4 @@ Pick one:
 ## 🤝 Connect with me
 - 🌐 Portfolio: https://amanrajak.in
 - 📧 Email: amanra382@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
 - 🌍 Location: India
